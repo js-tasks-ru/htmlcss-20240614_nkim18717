@@ -1,0 +1,186 @@
+.stats {
+  width: 354px;
+  height: auto;
+  padding: 16px 26px 0px;
+  background-color: var(--white);
+  border: 1px solid var(--grey-3);
+  border-radius: 8px;
+}
+
+.stats__description {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+}
+
+.stats__title {
+  margin: 0;
+  margin-bottom: 6px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--black);
+}
+
+.stats__num {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: var(--black);
+}
+
+.stats__link {
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--blue-component);
+}
+
+.stats__data {
+  height: 120px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 24px;
+}
+
+.histogram {
+  display: flex;
+  align-items: flex-end;
+  gap: 1px;
+}
+
+.histogram__item {
+  margin: 0;
+  padding: 0;
+  background-color: var(--blue-component);
+  flex-grow: 1;
+}
+
+.histogram__item-1 {
+  height: 50%;
+}
+
+.histogram__item-2 {
+  height: 35%;
+}
+
+.histogram__item-3 {
+  height: 22%;
+}
+
+.histogram__item-4 {
+  height: 39%;
+}
+
+.histogram__item-5 {
+  height: 22%;
+}
+
+.histogram__item-6 {
+  height: 30%;
+}
+
+.histogram__item-7 {
+  height: 39%;
+}
+
+.histogram__item-8 {
+  height: 50%;
+}
+
+.histogram__item-9 {
+  height: 11%;
+}
+
+.histogram__item-10 {
+  height: 22%;
+}
+
+.histogram__item-11 {
+  height: 30%;
+}
+
+.histogram__item-12 {
+  height: 35%;
+}
+
+.histogram__item-13 {
+  height: 11%;
+}
+
+.histogram__item-14 {
+  height: 50%;
+}
+
+.histogram__item-15 {
+  height: 11%;
+}
+
+.histogram__item-16 {
+  height: 39%;
+}
+
+.histogram__item-17 {
+  height: 30%;
+}
+
+.histogram__item-18 {
+  height: 22%;
+}
+
+.histogram__item-19 {
+  height: 35%;
+}
+
+.histogram__item-20 {
+  height: 30%;
+}
+
+.histogram__item-21 {
+  height: 11%;
+}
+
+.histogram__item-22 {
+  height: 39%;
+}
+
+.histogram__item-23 {
+  height: 35%;
+}
+
+.histogram__item-24 {
+  height: 45%;
+}
+
+.histogram__item-25 {
+  height: 30%;
+}
+
+.histogram__item-26 {
+  height: 11%;
+}
+
+.histogram__item-27 {
+  height: 30%;
+}
+
+.histogram__item-28 {
+  height: 11%;
+}
+
+.histogram__item-29 {
+  height: 35%;
+}
+
+.histogram__item-30 {
+  height: 17%;
+}
