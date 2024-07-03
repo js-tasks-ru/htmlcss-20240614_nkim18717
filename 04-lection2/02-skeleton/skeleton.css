@@ -1,0 +1,47 @@
+.skeleton {
+  max-width: 579px;
+  height: auto;
+  padding: 24px 40px 32px 24px;
+  background-color: var(--white);
+  border: 1px solid var(--grey-3);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.skeleton__header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.skeleton__avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background-color: var(--grey-2);
+}
+
+.skeleton__intro-1 {
+  width: 172px;
+  height: 20px;
+  background-color: var(--grey-2);
+  margin-bottom: 8px;
+}
+
+.skeleton__intro-2 {
+  width: 257px;
+  height: 20px;
+  background-color: var(--grey-2);
+}
+
+.skeleton__content-1,
+.skeleton__content-2 {
+  height: 20px;
+  background-color: var(--grey-2);
+}
+
+.skeleton__content-1 {
+  margin-bottom: 8px;
+}
