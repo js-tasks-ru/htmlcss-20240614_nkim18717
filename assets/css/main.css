@@ -24,7 +24,9 @@
   --success: var(--blue);
 
   --primary: var(--blue);
+  --primary-hover: #2342c0;
   --secondary: var(--purple);
+  --secondary-hover: #5028c6;
 }
 
 * {
