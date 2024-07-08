@@ -1,0 +1,182 @@
+.stats {
+  padding: 16px 24px 24px;
+  background-color: var(--white);
+  border: 1px solid var(--grey-3);
+  border-radius: 8px;
+}
+
+.stats__description {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  margin-bottom: 39px;
+}
+
+.stats__title {
+  margin: 0;
+  margin-bottom: 6px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--black);
+}
+
+.stats__num {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: var(--black);
+}
+
+.stats__link {
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--blue-component);
+  padding-top: 3px;
+}
+
+.stats__data {
+  height: 50px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: flex-end;
+  gap: 1px;
+}
+
+.stats__item {
+  margin: 0;
+  padding: 0;
+  background-color: var(--blue-component);
+  flex-grow: 1;
+}
+
+.stats__item_1 {
+  height: 50%;
+}
+
+.stats__item_2 {
+  height: 35%;
+}
+
+.stats__item_3 {
+  height: 22%;
+}
+
+.stats__item_4 {
+  height: 39%;
+}
+
+.stats__item_5 {
+  height: 22%;
+}
+
+.stats__item_6 {
+  height: 30%;
+}
+
+.stats__item_7 {
+  height: 39%;
+}
+
+.stats__item_8 {
+  height: 50%;
+}
+
+.stats__item_9 {
+  height: 11%;
+}
+
+.stats__item_10 {
+  height: 22%;
+}
+
+.stats__item_11 {
+  height: 30%;
+}
+
+.stats__item_12 {
+  height: 35%;
+}
+
+.stats__item_13 {
+  height: 11%;
+}
+
+.stats__item_14 {
+  height: 50%;
+}
+
+.stats__item_15 {
+  height: 11%;
+}
+
+.stats__item_16 {
+  height: 39%;
+}
+
+.stats__item_17 {
+  height: 30%;
+}
+
+.stats__item_18 {
+  height: 22%;
+}
+
+.stats__item_19 {
+  height: 35%;
+}
+
+.stats__item_20 {
+  height: 30%;
+}
+
+.stats__item_21 {
+  height: 11%;
+}
+
+.stats__item_22 {
+  height: 39%;
+}
+
+.stats__item_23 {
+  height: 35%;
+}
+
+.stats__item_24 {
+  height: 45%;
+}
+
+.stats__item_25 {
+  height: 30%;
+}
+
+.stats__item_26 {
+  height: 11%;
+}
+
+.stats__item_27 {
+  height: 30%;
+}
+
+.stats__item_28 {
+  height: 11%;
+}
+
+.stats__item_29 {
+  height: 35%;
+}
+
+.stats__item_30 {
+  height: 17%;
+}
