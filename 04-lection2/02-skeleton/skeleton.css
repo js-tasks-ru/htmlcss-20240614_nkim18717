@@ -1,0 +1,48 @@
+.skeleton {
+  padding: 24px 40px 32px 24px;
+  background-color: var(--white);
+  border: 1px solid var(--grey-3);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+
+.skeleton__header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.skeleton__avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background-color: var(--grey-2);
+}
+
+.skeleton__intro {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.skeleton__line {
+  background-color: var(--grey-2);
+  height: 20px;
+}
+
+.skeleton__line_small {
+  width: 30%;
+}
+
+.skeleton__line_big {
+  width: 45%;
+}
+
+.skeleton__content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
