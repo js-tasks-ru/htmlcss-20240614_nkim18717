@@ -5,6 +5,11 @@
   border-radius: 8px;
 }
 
+.stats_preview {
+  max-width: 300px;
+  margin-bottom: 75px;
+}
+
 .stats__description {
   display: flex;
   justify-content: space-between;
