@@ -1,4 +1,10 @@
 .main-home {
   background-color: var(--light-blue);
-  height: 400px;
+  padding: 68px 0 204px;
+}
+
+.main-home__cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
 }

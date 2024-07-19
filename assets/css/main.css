@@ -5,6 +5,8 @@
 @import '../../components/header/header.css';
 @import '../../components/main-home/main-home.css';
 @import '../../components/footer/footer.css';
+@import '../../components/card/card.css';
+@import '../../04-lection2/01-histogram/histogram.css';
 
 :root {
   --white: #ffffff;
@@ -23,12 +25,14 @@
   --error: var(--red);
   --success: var(--blue);
 
+  --card-shadow: rgba(33, 36, 41, 0.05);
+
   --primary: var(--blue);
   --primary-hover: #2342c0;
   --secondary: var(--purple);
   --secondary-hover: #5028c6;
 }
 
-* {
+body {
   font-family: 'Roboto', sans-serif;
 }
