@@ -12,7 +12,7 @@
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
-  color: var(--calendar-1);
+  color: var(--component-1);
   text-align: center;
 }
 
@@ -41,7 +41,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
-  color: var(--calendar-1);
+  color: var(--component-1);
   padding: 8px 10px;
 }
 
@@ -51,12 +51,12 @@
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
-  color: var(--grey-5);
+  color: var(--component-3);
   padding: 24px 0;
 }
 
 .calendar__item_range {
-  background-color: var(--calendar-2);
+  background-color: var(--component-2);
 }
 
 .calendar__item_range_point {
