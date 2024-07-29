@@ -23,7 +23,7 @@
   --grey-2: #dde2e5;
   --grey-3: #acb5bd;
   --grey-4: #495057;
-  --grey-5: rgb(196, 196, 196, 0.5);
+  --grey-5: rgb(196, 196, 196);
 
   --error: var(--red);
   --success: var(--blue);
