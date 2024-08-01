@@ -26,6 +26,9 @@
   --success: var(--blue);
 
   --card-shadow: rgba(33, 36, 41, 0.05);
+  --component-1: #334d6e;
+  --component-2: #a0b1f5;
+  --component-3: #90a0b7;
 
   --primary: var(--blue);
   --primary-hover: #2342c0;
