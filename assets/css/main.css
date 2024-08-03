@@ -7,6 +7,7 @@
 @import '../../components/footer/footer.css';
 @import '../../components/card/card.css';
 @import '../../04-lection2/01-histogram/histogram.css';
+@import '../../03-lection1/01-button/button.css';
 
 :root {
   --white: #ffffff;
@@ -15,12 +16,14 @@
   --purple: #7048e8;
   --blue: #374fc7;
   --blue-component: #4263eb;
+
   --light-blue: #f9fafc;
   --red: #f03d3e;
   --grey-1: #f8f9fa;
   --grey-2: #dde2e5;
   --grey-3: #acb5bd;
   --grey-4: #495057;
+  --grey-5: rgb(196, 196, 196);
 
   --error: var(--red);
   --success: var(--blue);
